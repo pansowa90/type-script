@@ -1,2 +1,2 @@
 # work
-some test
+some tests
